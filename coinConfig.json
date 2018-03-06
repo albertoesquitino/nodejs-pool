@@ -40,5 +40,13 @@
     "name": "Intense Coin",
     "mixIn": 4,
     "shortCode": "ITNS"
+  },
+    "xlc": {
+    "funcFile": "./lib/coins/xlc.js",
+    "paymentFile": "./payment_systems/xlc.js",
+    "sigDigits": 100000000,
+    "name": "Leviar Coin",
+    "mixIn": 1,
+    "shortCode": "XLC"
   }
 }
